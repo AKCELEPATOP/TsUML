@@ -1,6 +1,6 @@
 {
-  "name": "tsuml",
-  "version": "0.0.1-alpha.8",
+  "name": "@akcelepatop/tsuml",
+  "version": "0.0.1-alpha.9",
   "description": "UML diagrams for TypeScript",
   "main": "dist/lib/index.js",
   "bin": {
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/remojansen/TsUML.git"
+    "url": "git+https://github.com/AKCELEPATOP/TsUML"
   },
   "keywords": [
     "typescript",
@@ -40,8 +40,5 @@
   ],
   "author": "Remo H. Jansen",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/remojansen/TsUML/issues"
-  },
   "homepage": "https://github.com/remojansen/TsUML#readme"
 }
